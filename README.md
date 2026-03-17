@@ -22,6 +22,7 @@ Deploy a simple Azure-hosted web application using Infrastructure as Code, apply
 ![Azure Resource Group](images/azure-resource-group.png)
 2. Deployed a Static Web Application which shows an overview of my project as well as functional options that redirect to my social media and important links
 ![Azure Resource Group](images/MyFirstStaticWebApp.png)
+![Azure Resource Group](images/Web-app-view.png)
 3. Create metric alert
 4. Validate deployment
 

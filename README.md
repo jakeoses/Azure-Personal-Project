@@ -18,7 +18,7 @@ Deploy a simple Azure-hosted web application using Infrastructure as Code, apply
 - Azure RBAC
 
 ## Deployment Steps
-1. Create resource group
+1. I have created a resource group named "rg-jake-portfolio-dev" to deploy and implement new resources to my simulated cloud environment
 2. Deploy resources with Bicep
 3. Configure tags and naming
 4. Create metric alert

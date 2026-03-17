@@ -19,6 +19,7 @@ Deploy a simple Azure-hosted web application using Infrastructure as Code, apply
 
 ## Deployment Steps
 1. I have created a resource group named "rg-jake-portfolio-dev" to deploy and implement new resources to my simulated cloud environment
+![Azure Resource Group](images/azure-resource-group.png)
 2. Deploy resources with Bicep
 3. Configure tags and naming
 4. Create metric alert
